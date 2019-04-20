@@ -15,4 +15,5 @@ align-items는 아이템들의 위치를 결정합니다. 가로(수직선분)�
 align-contents라는 속성이 있습니다.
 이것은 flex line을 설정합니다...
 
+아래의 사진은 align-content의 examples 입니다.
 ![https://css-tricks.com/almanac/properties/a/align-content/](./align-content-example.svg)
