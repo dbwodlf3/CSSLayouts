@@ -17,3 +17,8 @@ align-contents라는 속성이 있습니다.
 
 아래의 사진은 align-content의 examples 입니다.
 ![https://css-tricks.com/almanac/properties/a/align-content/](./align-content-example.svg)
+
+## 개념정리
+
+박스내의 flow를 임의로 설정한다는 것에 의의가 있습니다.
+이전에는 flow를 바꾸기 위해서 이것저것 작은 값들을 손대어야 했지만, flex box 를 이용하면 flex의 속성값들만을 바꾸어서 임의의 flow를 쉽게 만들어낼 수 있습니다.
